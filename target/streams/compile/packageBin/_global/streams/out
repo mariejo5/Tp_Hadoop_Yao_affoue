@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\tp_hadoop_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Jobs
+[debug] 	  C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\classes\Jobs
+[debug] 	Jobs\Master1$$typecreator6$1.class
+[debug] 	  C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\classes\Jobs\Master1$$typecreator6$1.class
+[debug] 	Jobs\Master1$.class
+[debug] 	  C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\classes\Jobs\Master1$.class
+[debug] 	Jobs\Master1$delayedInit$body.class
+[debug] 	  C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\classes\Jobs\Master1$delayedInit$body.class
+[debug] 	Jobs\Master1.class
+[debug] 	  C:\Users\HP\IdeaProjects\Tp_Hadoop\target\scala-2.12\classes\Jobs\Master1.class
+[debug] Done packaging.
